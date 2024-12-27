@@ -10,7 +10,7 @@ language = "python"
 # o = 4 , -2
 # n = 5 , -1
 
-# (-1) printe index number in reverse order.
+# (-1) print index number in reverse order.
 
 print(language[2]) # squire bracket will be used only for to write index string number
 
