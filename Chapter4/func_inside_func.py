@@ -19,5 +19,6 @@ def greatest(a,b,c):
 def new_greatest(a,b,c):
     bigger = greater(a,b)
     return greater(bigger, c)
+    #return greater(greater(a,b), c)  another way to compare
 
 print(new_greatest(101,23,12))
